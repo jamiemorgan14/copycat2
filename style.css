@@ -1,5 +1,7 @@
-.navbar {
-  position:fixed;
+.nav-fixed {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
 }
 
 .nav-item {
