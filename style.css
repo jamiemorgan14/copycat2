@@ -1,0 +1,17 @@
+.navbar {
+  position:fixed;
+}
+
+.nav-item {
+  text-align: right;
+}
+
+.open-background {
+  padding: 100px
+}
+
+.small-images {
+  max-width: 200px;
+}
+
+
